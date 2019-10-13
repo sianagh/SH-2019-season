@@ -3,7 +3,6 @@
 # AUTHOR: Sheena Sullivan
 # DATE: 23/8/2019
 # -----------------------------------------------------------------------------
-setwd("//vidrlwhoflu/Shared/WHOFLU/Group/Epidemiology/VE/GIVE/2019-Sep/SH-VE paper/plots/SH-2019-paper")
 library(mem)
 library(plyr)
 library(dplyr)
